@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9darsClassWork.Api", "9darsClassWork.Api\9darsClassWork.Api.csproj", "{B8000B7A-B155-4E1A-A53E-2F2F8EF136DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8000B7A-B155-4E1A-A53E-2F2F8EF136DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8000B7A-B155-4E1A-A53E-2F2F8EF136DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8000B7A-B155-4E1A-A53E-2F2F8EF136DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8000B7A-B155-4E1A-A53E-2F2F8EF136DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BDD1F2-B6CE-44D8-95CD-638767BF06D1}
+	EndGlobalSection
+EndGlobal
